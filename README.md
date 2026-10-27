@@ -4,7 +4,7 @@
 
 ## 런처
 
-Releases에서 Pepero-Tycoon-Test-Launcher.zip을 받아 전체 압축을 풀고 Pepero Tycoon Test.exe를 실행하세요. 기존 런처는 이번 버전으로 한 번 교체해야 합니다. 이후 모드는 시작 시와 게임 실행 전에 자동 확인합니다.
+[런처 다운로드](https://github.com/Hoone02/peperotycoon-releases/releases/download/client-0.9.0-20261027.2/Pepero-Tycoon-Test-Launcher.zip)에서 ZIP을 받아 전체 압축을 풀고 Pepero Tycoon Test.exe를 실행하세요. 기존 런처는 이번 버전으로 한 번 교체해야 합니다. 이후 모드는 시작 시와 게임 실행 전에 자동 확인합니다.
 
 접속 주소는 127.0.0.1:25565, 계정은 PeperoTester입니다. 정식 서버 접속·Microsoft 로그인 기능은 아직 활성화하지 않았습니다.
 
